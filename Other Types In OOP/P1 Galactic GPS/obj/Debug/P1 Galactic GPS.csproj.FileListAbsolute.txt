@@ -1,0 +1,8 @@
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\bin\Debug\P1 Galactic GPS.exe.config
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\bin\Debug\P1 Galactic GPS.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\bin\Debug\P1 Galactic GPS.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\bin\Debug\Helpers.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\bin\Debug\Helpers.xml
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\obj\Debug\P1 Galactic GPS.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\obj\Debug\P1 Galactic GPS.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P1 Galactic GPS\obj\Debug\P1 Galactic GPS.pdb

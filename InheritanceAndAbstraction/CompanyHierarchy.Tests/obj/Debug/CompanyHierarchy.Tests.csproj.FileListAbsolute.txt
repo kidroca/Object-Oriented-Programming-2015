@@ -1,0 +1,14 @@
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\CompanyHierarchy.Tests.exe.config
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\CompanyHierarchy.Tests.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\CompanyHierarchy.Tests.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\CompanyHierarchy.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\Global.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\Helpers.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\S.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\CompanyHierarchy.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\Global.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\S.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\bin\Debug\Helpers.xml
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\obj\Debug\CompanyHierarchy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\obj\Debug\CompanyHierarchy.Tests.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy.Tests\obj\Debug\CompanyHierarchy.Tests.pdb

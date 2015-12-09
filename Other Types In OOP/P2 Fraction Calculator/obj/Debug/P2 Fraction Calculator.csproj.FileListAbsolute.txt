@@ -1,0 +1,7 @@
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\bin\Debug\P2 Fraction Calculator.exe.config
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\bin\Debug\P2 Fraction Calculator.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\bin\Debug\P2 Fraction Calculator.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\bin\Debug\Helpers.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\bin\Debug\Helpers.xml
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\obj\Debug\P2 Fraction Calculator.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\Other Types In OOP\P2 Fraction Calculator\obj\Debug\P2 Fraction Calculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\HumanStudentAndWorker.Tests.exe.config
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\HumanStudentAndWorker.Tests.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\HumanStudentAndWorker.Tests.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\Global.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\Helpers.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\S.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\Global.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\S.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\bin\Debug\Helpers.xml
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\obj\Debug\HumanStudentAndWorker.Tests.exe
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker.Tests\obj\Debug\HumanStudentAndWorker.Tests.pdb

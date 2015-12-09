@@ -1,0 +1,7 @@
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\S.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\S.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\Global.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\bin\Debug\Global.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\obj\Debug\S.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\HumanStudentAndWorker\obj\Debug\S.pdb

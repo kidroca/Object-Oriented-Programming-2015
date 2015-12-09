@@ -1,0 +1,9 @@
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\Global.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\S.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\Global.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\S.pdb
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.dll
+C:\Users\kidroca\Dropbox\Current Homeworks\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1 Galactic GPS", "P1 Galactic GPS\P1 Galactic GPS.csproj", "{0F269539-7654-4C02-BCF6-8C3ADFEBBECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2 Fraction Calculator", "P2 Fraction Calculator\P2 Fraction Calculator.csproj", "{03D9AD8C-4B38-4945-A416-8C041D3CCF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3 Generic List", "P3 Generic List\P3 Generic List.csproj", "{58D37542-76B2-4808-A290-6BB42C75497E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList.Tests", "GenericList.Tests\GenericList.Tests.csproj", "{90FF55A6-BE5D-46F8-B134-8C2C99BF5D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4 Generic List Version", "P4 Generic List Version\P4 Generic List Version.csproj", "{1F8A7540-8411-4E6C-9496-ADC59A43012C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5 Word Document Generator", "P5 Word Document Generator\P5 Word Document Generator.csproj", "{CF2F72F1-BEBC-41DB-AA2D-8122C6582869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F269539-7654-4C02-BCF6-8C3ADFEBBECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F269539-7654-4C02-BCF6-8C3ADFEBBECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F269539-7654-4C02-BCF6-8C3ADFEBBECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F269539-7654-4C02-BCF6-8C3ADFEBBECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D9AD8C-4B38-4945-A416-8C041D3CCF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D9AD8C-4B38-4945-A416-8C041D3CCF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D9AD8C-4B38-4945-A416-8C041D3CCF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D9AD8C-4B38-4945-A416-8C041D3CCF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D37542-76B2-4808-A290-6BB42C75497E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D37542-76B2-4808-A290-6BB42C75497E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D37542-76B2-4808-A290-6BB42C75497E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D37542-76B2-4808-A290-6BB42C75497E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FF55A6-BE5D-46F8-B134-8C2C99BF5D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FF55A6-BE5D-46F8-B134-8C2C99BF5D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FF55A6-BE5D-46F8-B134-8C2C99BF5D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FF55A6-BE5D-46F8-B134-8C2C99BF5D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8A7540-8411-4E6C-9496-ADC59A43012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8A7540-8411-4E6C-9496-ADC59A43012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8A7540-8411-4E6C-9496-ADC59A43012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8A7540-8411-4E6C-9496-ADC59A43012C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2F72F1-BEBC-41DB-AA2D-8122C6582869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2F72F1-BEBC-41DB-AA2D-8122C6582869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2F72F1-BEBC-41DB-AA2D-8122C6582869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2F72F1-BEBC-41DB-AA2D-8122C6582869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
